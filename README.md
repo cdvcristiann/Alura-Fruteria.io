@@ -1,4 +1,4 @@
-https://cdvcristiann.github.io/Alura-Barber.io/
+https://cdvcristiann.github.io/Alura-Fruteria.io/
 
 # arquitectura-css
 curso de arquitectura de Alura. 
